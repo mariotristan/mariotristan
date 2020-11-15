@@ -1,9 +1,11 @@
-### Hi there 👋
+Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align='center'>
+<a href="https://dev.to/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mariotristan/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-<!--
-**mariotristan/mariotristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Consulting and Personal Projects 
 - 🌱 I’m currently learning MLOps, AIOps	🤖
@@ -12,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/mariotristan 
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: Never had a broken bone or sprain!
-![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariotristan&show_icons=true)
--->
 
+![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariotristan&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotristan&layout=compact)](https://github.com/mariotristan/github-readme-stats)
 

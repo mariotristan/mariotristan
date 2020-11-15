@@ -1,4 +1,6 @@
-Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align='center'>
+<img src="https://github.com/mariotristan/mariotristan.github.io/blob/master/images/bg1.jpg">
+</p>
 <p align='center'>
 <a href="https://dev.to/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -15,7 +17,9 @@ Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: Never had a broken bone or sprain!
 
+<p align='center'>
+  
 ![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariotristan&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotristan&layout=compact)](https://github.com/mariotristan/github-readme-stats)
-
+</p>

@@ -9,6 +9,15 @@
   <a href="https://www.buymeacoffee.com/mariotristan"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 </p>
 
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/Azure_Fundamental_Icon.png">
+
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/cloudpractitioner.png">
+
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-LLL.png">
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png">
+
+
+
 
 - 🔭 I’m currently working on Consulting and Personal Projects 
 - 🌱 I’m currently learning MLOps, AIOps	🤖

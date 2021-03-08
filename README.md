@@ -1,6 +1,4 @@
-<p align='center'>
-<img width="90%" src="https://raw.githubusercontent.com/mariotristan/mariotristan.github.io/master/images/bg1.jpg?token=AABJCKOKZ2IZFVEYUUGULG3AAN7LO">
-</p>
+
 <p align='center'>
 <a href="https://dev.to/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;

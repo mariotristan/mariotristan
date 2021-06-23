@@ -8,6 +8,7 @@
 </p>
 
 <p align='center'>
+  <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
 <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/Azure_Fundamental_Icon.png"></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/611af53c-009f-4249-9ca4-26d8cab18010">

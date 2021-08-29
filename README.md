@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-  <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
+  <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283" target=_blank><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
 <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
 <a href="https://www.credly.com/badges/9d3a9f5d-6806-48b3-9a4f-bb9415fb9092/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-ai-fundamentals.png"></a>

@@ -1,15 +1,10 @@
 
-<p align='center'>
-<a href="https://dev.to/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/mariotristan"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mariotristan/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="https://www.buymeacoffee.com/mariotristan"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-</p>
+
 
 <p align='center'>
-<a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/Azure_Fundamental_Icon.png"></a>
-
+  <a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png"></a>  
+<a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a>
+<a href="https://www.youracclaim.com/earner/earned/badge/e55a31b3-562d-487c-8cac-43ee8e7a3283"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/611af53c-009f-4249-9ca4-26d8cab18010">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/cloudpractitioner.png"></a>
 
@@ -18,7 +13,8 @@
 
 <a href="https://www.youracclaim.com/earner/earned/badge/9a3e130e-4b73-4872-a2da-ee7034f0a013">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png">
-</p></a>
+  </a>
+</p>
 
 
 

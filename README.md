@@ -27,6 +27,10 @@
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: Never had a broken bone or sprain!
 
+
+<p align='left'>
+<a href="https://app.daily.dev/mariotristan"><img src="https://api.daily.dev/devcards/ae198add94d54a3286c733e19afeb3f2.png?r=l9z" width="150" alt="Mario Tristán's Dev Card"/></a>
+</p>
 <p align='center'>
   
 ![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariotristan&show_icons=true&theme=dark)

@@ -22,6 +22,7 @@
 <a href="">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC_1.png"></a>
   <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/github-copilot.svg"></a>
+  <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/zero-state-applied-skills.svg"></a>
   
 </p>
 

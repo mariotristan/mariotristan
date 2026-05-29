@@ -17,6 +17,8 @@
   <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-365-certified-fundamentals.png"></a>
    <a href="">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/practitioner.png"></a>
+     <a href="">
+<img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/aws-certified-ai-practitioner.png"></a>
 <a href="">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-LLL.png"></a>
 <a href="">

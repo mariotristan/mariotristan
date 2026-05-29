@@ -1,4 +1,19 @@
+## Hi, I'm Mario Tristan 👋
 
+Senior Principal Engineer & consultant based in **Monterrey, MX**. I love solving problems, building products, and working with technology — from cloud architecture to DevOps pipelines to AI. I'm a seasoned professional who can help you understand and improve your applications and business processes. Let's build something great together!
+
+**Currently:** Senior Principal at [Slalom](https://www.slalom.com/)  
+**Background:** Accenture · PWC · Chubb · Digital@FEMSA · Solera  
+**Education:** M.S. Information Technology Management, TecMilenio
+
+**Technologies I work with:**  
+Azure · AWS · Kubernetes · Docker · Terraform · Ansible · Jenkins · GitHub Actions · C# · Node · Angular
+
+
+---
+📖 [Learn more about me →](https://mariotristan.github.io/quickstart/)
+
+---
 
 
 <p align='center'>
@@ -30,9 +45,3 @@
 </p>
 
 
-
-- 🔭 I’m currently working on Consulting and Personal Projects 
-- 🌱 I’m currently learning MLOps, AIOps	🤖
-- 👯 I’m looking to collaborate on teaching people how to code 💻
-- 💬 Ask me about DevOps, .Net, Comics, life!🧙
-- 📫 How to reach me: https://twitter.com/mariotristan 

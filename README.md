@@ -35,6 +35,8 @@ Azure · AWS · Kubernetes · Docker · Terraform · Ansible · Jenkins · GitHu
      <a href="">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/aws-certified-ai-practitioner.png"></a>
 <a href="">
+  <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/aws-certified-developer-associate.png"></a>
+<a href="">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-LLL.png"></a>
 <a href="">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC_1.png"></a>

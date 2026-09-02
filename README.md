@@ -1,6 +1,6 @@
 ## Hi, I'm Mario Tristan 👋
 
-Senior Principal Engineer & consultant based in **Monterrey, MX**. I love solving problems, building products, and working with technology — from cloud architecture to DevOps pipelines to AI. I'm a seasoned professional who can help you understand and improve your applications and business processes. Let's build something great together!
+Platform Engineering Director & consultant based in **Monterrey, MX**. I love solving problems, building products, and working with technology — from cloud architecture to DevOps pipelines to AI. I'm a seasoned professional who can help you understand and improve your applications and business processes. Let's build something great together!
 
 **Currently:** Senior Principal at [Slalom](https://www.slalom.com/)  
 **Background:** Accenture · PWC · Chubb · Digital@FEMSA · Solera  

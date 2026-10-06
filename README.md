@@ -43,6 +43,7 @@ Azure · AWS · Kubernetes · Docker · Terraform · Ansible · Jenkins · GitHu
   <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/github-copilot.svg"></a>
    <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/github-actions.svg"></a>
   <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/zero-state-applied-skills.svg"></a>
+  <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/2250ed0d98ef6af63e40acd7168f474f.png"></a>
   
 </p>
 
